@@ -1,0 +1,137 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body {
+	background-color: #F1F1F1 ;
+}
+header {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	background-color:  #F1F1F1  ;
+}
+header > nav {
+	height: 20px;
+	padding: 20px;
+	margin: 0 auto;
+	width: 1166px;
+}
+nav > a {
+	text-decoration: none;
+	margin-right: 35px;
+	font-size: 11;
+	color: black;
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+
+
+}
+main {
+	width: 1166px;
+	margin: 76px auto;
+
+}
+main > h1 {
+	font-family: "Roboto", sans-serif;
+	color: black;
+	font-weight: 700;
+	font-size: 24px;
+	margin-bottom: 27px;
+}
+#second > p {
+	display: inline;
+	margin-right: 170px;
+	margin-left: 50px;
+
+	font-family: "Roboto", sans-serif;
+	color: white;
+	font-weight: 700;
+	font-size: 18px;
+
+	
+}
+#foto1 {
+	
+
+}
+#second {
+	position: absolute;
+}
+
+
+.first {
+	width: 362px;
+	height: 171px;
+	background-color: white;
+	display: inline-block;
+	margin-top: -5px;
+}
+div > article {
+	width: 190px;
+	height: 40px;
+	display: inline-block;
+	margin-right: 150px;
+	margin-top: 40px;
+	margin-left: 30px;
+
+}
+#foto2 {
+	margin-bottom: 50px;
+
+}
+#me {
+	position: absolute;
+}
+#pirveli > img {
+	margin-bottom: 50px;
+}
+#pirveli {
+	display: inline;
+}
+#meore {
+	display: inline;
+	position: absolute;
+	bottom: -720px;
+}
+footer {
+	height: 200px;
+	width: 100%;
+	background-color: #243043 ;
+	margin: 0px auto;
+}
+.am > p {
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700;
+	margin-bottom: 30px ;
+	margin-left: 147px;
+	margin-top: 30px;
+}
+.am {
+	display: inline-block;
+}
+.am > a {
+	color: white;
+	font-size: 14px;
+	margin-left: 147px;
+}
+
+#ss {
+	margin-bottom: 200x;
+	margin-left: 350px;
+	display: inline-block;
+}
+footer > .footer-content {
+	width: 1166px;
+	margin: 0 auto;
+}
+.meore {
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 80px;
+}
